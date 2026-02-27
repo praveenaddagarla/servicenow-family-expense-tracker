@@ -69,3 +69,34 @@ else
 }
 
 })(current, previous);
+```
+
+## 📚 Knowledge Base Articles
+• Workstation Security Standard  
+• Phishing Awareness  
+• Technical Setup Guide  
+
+---
+
+## 📸 Screenshots
+Screenshots of the working application are available in the **screenshots** folder.
+
+---
+
+## 📦 Repository Contents
+• ServiceNow Update Set XML  
+• Project Report PDF  
+• Application Screenshots  
+• README Documentation  
+
+---
+
+## 🎥 Project Demo Video
+Watch the working demo here:
+https://drive.google.com/file/d/1eTQ0_Kob5ol3Ychd3dSv-RDfzg1Oioto/view?usp=sharing
+
+---
+
+## 👨‍💻 Developer
+**Addagarla S S R Praveen**  
+APSHE Smartz Internship – 2026
